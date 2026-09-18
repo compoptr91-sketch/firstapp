@@ -13,6 +13,7 @@
             <asp:LinkButton ID="lnkButton" PostBackUrl="~/Home.aspx" runat="server">Go to Home</asp:LinkButton>
             <asp:LinkButton ID="lnkButton1" PostBackUrl="~/WebForm1.aspx" runat="server">Go to weform1</asp:LinkButton>
             <h2>This is a new feature (dropdown)</h2>
+            <h2>This is a new feature (button)</h2>
         </div>
     </form>
 </body>
